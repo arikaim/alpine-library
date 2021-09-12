@@ -1,0 +1,19 @@
+{
+    "version": "3.3.3",
+    "name": "alpine",
+    "title": "Alpine",
+    "package-type": "library",
+    "repository": "https://github.com/arikaim/alpine-library.git",
+    "help": "https://alpinejs.dev/",
+    "description": "Alpine is a rugged, minimal tool for composing behavior directly in your markup.",
+    "files": [
+        "alpine-3.3.3.min.js"
+    ],
+    "versions": {
+        "cdn": {
+            "files": [
+                "https://unpkg.com/alpinejs@3.3.3/dist/cdn.min.js"
+            ] 
+        }     
+    }
+}
